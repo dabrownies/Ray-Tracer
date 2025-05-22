@@ -48,7 +48,7 @@ pip install numpy pillow
 ### Quick Test
 
 ```bash
-python test_raytracer.py
+python test.py
 ```
 
 Creates a simple test image in about 10 seconds.
